@@ -25,3 +25,13 @@ body {
     border-radius: 20px;
     background-color: var(--Light-grayish-blue)
 }
+
+.container__img__woman {
+    position: absolute;
+    top: 18%;
+    left: 20%;
+    width: 200px;
+    height: 160px;
+    background: url(../img/illustration-woman-online-mobile.svg) no-repeat;
+    z-index: 1;
+}
