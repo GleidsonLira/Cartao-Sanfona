@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 100vh;
+    background: linear-gradient(var(--Soft-violet), var(--Soft-blue));
+}
