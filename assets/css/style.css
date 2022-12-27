@@ -83,3 +83,16 @@ body {
     cursor: pointer;
     color: var(--Soft-red);
 }
+
+.box__message__title.active {
+    color: var(--Very-dark-desaturated-blue);
+}
+
+.box__img {
+    width: 0.8em;
+    height: 0.8em;
+}
+
+.box__message__text {
+    display: none;
+}
