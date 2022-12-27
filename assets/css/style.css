@@ -65,3 +65,21 @@ body {
     font-weight: 600;
     color: var(--Very-dark-desaturated-blue);
 }
+
+.container__box__message.active .box__img {
+    transform: rotateX(180deg);
+}
+
+.box__message {
+    margin-bottom: 2.4em;
+}
+
+.box__message__title {
+    font-weight: 400;
+    color: var(--Very-dark-grayish-blue);
+}
+
+.box__message__title:hover{
+    cursor: pointer;
+    color: var(--Soft-red);
+}
