@@ -96,3 +96,16 @@ body {
 .box__message__text {
     display: none;
 }
+
+
+/* CSS responsivo*/
+
+@media screen and (min-width:400px) {
+    .container{
+        width: 30em;
+    }
+
+    .container__img__woman{
+        left: 30%;
+    }
+}
