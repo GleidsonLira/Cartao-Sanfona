@@ -109,3 +109,9 @@ body {
         left: 30%;
     }
 }
+
+@media screen and (min-width:650px) {
+    .container__img__woman{
+    left: 35%;
+}
+}
