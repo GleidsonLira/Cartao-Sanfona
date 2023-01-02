@@ -100,6 +100,7 @@ body {
 
 /* CSS responsivo*/
 
+
 @media screen and (min-width:400px) {
     .container{
         width: 30em;
@@ -133,10 +134,13 @@ body {
         flex-direction: column;
         align-items: flex-end;
     }
+
     .container__box{
         width: 50%;
         margin-top: 2em;
     }
+
+
     .container__img__woman{
         top: 32%;
         left: 16%;
